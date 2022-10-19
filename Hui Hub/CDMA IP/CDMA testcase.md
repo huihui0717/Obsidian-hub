@@ -19,4 +19,41 @@ sim.cfg 中传递仿真参数，控制不同的仿真方案
 
 ## 二、2D
 sim.cfg 中传递仿真参数，控制不同的仿真方案
+### 用户模式
+- user_mode
+>该参数控制用户模式
+- user_data_fmt
+>控制像素单位，8bit 和 16bit
+- user_const_en
+>控制padding
+- user_image_width
+>2D图像的宽度
+- user_image_height
+>2D图像的高度
+- user_src_wstride
+>源图像的步幅
+- user_dst_wstride
+>目的图像的步幅
+
+**testcase**: tc_cdma_2D_pio_user_specify_mode_test
+
+### 普通模式
+- data_fmt_mode
+> 控制数据的格式，8bit和16bit
+- padding_mode
+> 控制 padding，是否padding 固定值
+- image_len_mode
+> 控制图像长度模式，短模式和长模式
+
+**testcase**: 
+- tc_cdma_2D_pio_8bit_padding_short_test
+- tc_cdma_2D_pio_8bit_padding_long_test
+- tc_cdma_2D_pio_8bit_no_padding_short_test
+- tc_cdma_2D_pio_8bit_no_padding_long_test
+- tc_cdma_2D_pio_16bit_padding_short_test
+- tc_cdma_2D_pio_16bit_padding_long_test
+- tc_cdma_2D_pio_16bit_no_padding_short_test
+- tc_cdma_2D_pio_16bit_no_padding_long_test
+
+
 
