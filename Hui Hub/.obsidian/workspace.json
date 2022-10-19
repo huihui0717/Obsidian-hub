@@ -128,8 +128,8 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -178,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 253.5
   },
   "ribbon": {
     "mostRecentAction": ""
