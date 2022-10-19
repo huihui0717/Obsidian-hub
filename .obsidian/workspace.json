@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "ea79b64516fbf138",
+    "type": "split",
+    "children": [
+      {
+        "id": "c34e5390702c9174",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4149c99d9dc67d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hui Hub/IC工具/git 学习笔记/Git 基本操作.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c48904403b176ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec79bc050dabb8ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "139052e1fb305ca7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7464b1e4d7f2e17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79c3c079d7a9fd23",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d5e31b27fac287a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8229fb3916105d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3526deb266d6229",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hui Hub/IC工具/git 学习笔记/Git 基本操作.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6e270173d4396df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hui Hub/IC工具/git 学习笔记/Git 基本操作.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70f8eb3b0c23f322",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "490a6ce31859c57d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hui Hub/IC工具/git 学习笔记/Git 基本操作.md"
+              }
+            }
+          },
+          {
+            "id": "1817b8cb1cc60b47",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "d4149c99d9dc67d6",
+  "lastOpenFiles": []
+}

@@ -6,7 +6,7 @@
 ```
 $ git init
 ```
-- 跟踪项目文件并提交，[[Git 命令详解#git add]]，[[Git 命令详解#git commit]]
+- 使用 [[Git 命令详解#git add|git add]]，[[Git 命令详解#git commit|git commit]] 命令，跟踪项目文件并提交，
 ```
 $ git add ...     // 第一次跟踪
 $ git add ...     // 第二次暂存
