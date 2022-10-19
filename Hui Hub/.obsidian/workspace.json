@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "目前存在的问题.md",
+                "file": "CDMA IP/目前存在的问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "目前存在的问题.md",
+                "file": "CDMA IP/目前存在的问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "目前存在的问题.md",
+                "file": "CDMA IP/目前存在的问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "目前存在的问题.md"
+                "file": "CDMA IP/目前存在的问题.md"
               }
             }
           },
@@ -167,15 +167,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "16af2649cb0f018f",
+  "active": "59f5c0630c929728",
   "lastOpenFiles": [
     "Git 基本操作.md",
     "获取 Git 仓库.md",
+    "CDMA IP/目前存在的问题.md",
     "2022-10-19.md"
   ]
 }
