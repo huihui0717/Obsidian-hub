@@ -1,5 +1,5 @@
 #### git init
-zhe
+这是这个命令的解释和用法
 
 
 #### git add
