@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,16 +175,17 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 331.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4d21c63c1877eb5c",
+  "active": "c5a9fae8558f583a",
   "lastOpenFiles": [
     "IC工具/Git 学习笔记/Git 命令详解.md",
     "IC工具/Git 学习笔记/Git 基本操作.md",
