@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc3f9c64b1c2a5d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "重构 CDMA 验证环境代码.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CDMA IP/CDMA testcase.md",
+                "file": "重构 CDMA 验证环境代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CDMA IP/CDMA testcase.md",
+                "file": "重构 CDMA 验证环境代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CDMA IP/CDMA testcase.md"
+                "file": "重构 CDMA 验证环境代码.md"
               }
             }
           },
@@ -187,10 +200,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4d21c63c1877eb5c",
+  "active": "bc3f9c64b1c2a5d6",
   "lastOpenFiles": [
-    "IC工具/Git 学习笔记/Git 基本操作.md",
     "CDMA IP/CDMA testcase.md",
+    "IC工具/Git 学习笔记/Git 基本操作.md",
     "IC工具/Git 学习笔记/Git 命令详解.md",
     "IC工具/Git 学习笔记/Git QA.md",
     "CDMA IP/目前存在的问题.md",
