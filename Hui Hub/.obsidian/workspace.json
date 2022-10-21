@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IC工具/Git 学习笔记/Git 基本操作.md",
+                "file": "CDMA IP/CDMA testcase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IC工具/Git 学习笔记/Git 基本操作.md",
+                "file": "CDMA IP/CDMA testcase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IC工具/Git 学习笔记/Git 基本操作.md"
+                "file": "CDMA IP/CDMA testcase.md"
               }
             }
           },
@@ -201,14 +201,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "16af2649cb0f018f",
+  "active": "bc3f9c64b1c2a5d6",
   "lastOpenFiles": [
     "CDMA IP/重构 CDMA 验证环境代码.md",
+    "CDMA IP/目前存在的问题.md",
     "CDMA IP/CDMA testcase.md",
     "IC工具/Git 学习笔记/Git 基本操作.md",
     "IC工具/Git 学习笔记/Git 命令详解.md",
     "IC工具/Git 学习笔记/Git QA.md",
-    "CDMA IP/目前存在的问题.md",
     "2022-10-19.md"
   ]
 }
