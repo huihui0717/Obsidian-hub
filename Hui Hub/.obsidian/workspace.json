@@ -191,7 +191,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -200,7 +201,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bc3f9c64b1c2a5d6",
+  "active": "cd9f50438f8d9d60",
   "lastOpenFiles": [
     "CDMA IP/CDMA testcase.md",
     "IC工具/Git 学习笔记/Git 基本操作.md",

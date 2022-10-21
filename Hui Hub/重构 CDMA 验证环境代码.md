@@ -1,11 +1,11 @@
 
 - 使用**约束重载**
 > 根据不同的功能点，重载不同的约束
-- 使用**Factory 模式**
-> 
+- 使用**Factory 机制**
+> +uvm_set_type_override
 
 
-1. user mode 依然使用**重载sequence**的方式，因为用户需要传递不同的参数
+
 
 
 
