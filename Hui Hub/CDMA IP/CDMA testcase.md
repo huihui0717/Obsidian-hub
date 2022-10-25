@@ -1,4 +1,14 @@
 ## 一、功能点
+
+1D、2D、data_fmt、pading、wsrtide、qos、多descriptor_chain，
+
+
+
+
+
+
+
+
 ### 1.1  1D
 - data_length
 > data_length 最大支持(2^32-1)，只支持 8bit。

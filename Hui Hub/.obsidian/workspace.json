@@ -196,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 234.5
   },
   "ribbon": {
     "mostRecentAction": ""
@@ -204,8 +204,8 @@
   "active": "bc3f9c64b1c2a5d6",
   "lastOpenFiles": [
     "CDMA IP/重构 CDMA 验证环境代码.md",
-    "CDMA IP/目前存在的问题.md",
     "CDMA IP/CDMA testcase.md",
+    "CDMA IP/目前存在的问题.md",
     "IC工具/Git 学习笔记/Git 基本操作.md",
     "IC工具/Git 学习笔记/Git 命令详解.md",
     "IC工具/Git 学习笔记/Git QA.md",
