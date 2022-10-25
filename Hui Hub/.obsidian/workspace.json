@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AMBA VIP 总结/AMBA AXI VIP 总结.md",
+                "file": "CDMA IP/CDMA testcase.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AMBA VIP 总结/AMBA AXI VIP 总结.md",
+                "file": "CDMA IP/CDMA testcase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AMBA VIP 总结/AMBA AXI VIP 总结.md",
+                "file": "CDMA IP/CDMA testcase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AMBA VIP 总结/AMBA AXI VIP 总结.md"
+                "file": "CDMA IP/CDMA testcase.md"
               }
             }
           },
@@ -216,6 +216,7 @@
   },
   "active": "5e225275a6b9a264",
   "lastOpenFiles": [
+    "AMBA VIP 总结/AMBA AXI VIP 总结.md",
     "CDMA IP/CDMA testcase.md",
     "CDMA IP/重构 CDMA 验证环境代码.md",
     "CDMA IP/目前存在的问题.md",
