@@ -1,6 +1,7 @@
 ## 一、功能点
 
-1D、2D、data_fmt、pading、wsrtide、qos、多descriptor_chain，
+1D、2D、data_fmt、pading、wsrtide、qos、多descriptor_chain，AXI interface width
+
 
 
 
