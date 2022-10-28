@@ -84,9 +84,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a65ec805d864c9c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -211,10 +221,7 @@
     "direction": "horizontal",
     "width": 234.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "5e225275a6b9a264",
+  "active": "7a65ec805d864c9c",
   "lastOpenFiles": [
     "AMBA VIP 总结/AMBA AXI VIP 总结.md",
     "CDMA IP/CDMA testcase.md",
