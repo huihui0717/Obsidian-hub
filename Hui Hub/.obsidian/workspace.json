@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 200
   },
   "right": {
     "id": "1dec63e1e885f19b",
@@ -170,9 +170,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 200
   },
-  "active": "16af2649cb0f018f",
+  "active": "41f9a1d066083fd3",
   "lastOpenFiles": [
     "System Verilog Assertion and Functional Coverage/System Verilog Assertions.md",
     "VIDEO IP/VDSYS 的问题.md",
