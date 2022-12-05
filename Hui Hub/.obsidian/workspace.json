@@ -26,19 +26,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Verilog Assertion and Functional Coverage/System Verilog Assertions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41f9a1d066083fd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "System Verilog Assertion and Functional Coverage/System Verilog Functional Coverage.md",
                 "mode": "source",
                 "backlinks": true,
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,9 +159,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "41f9a1d066083fd3",
+  "active": "de15dd73efc5e4cc",
   "lastOpenFiles": [
     "System Verilog Assertion and Functional Coverage/System Verilog Assertions.md",
+    "System Verilog Assertion and Functional Coverage/System Verilog Functional Coverage.md",
     "VIDEO IP/VDSYS 的问题.md",
     "CDMA IP/Function Coverage.md",
     "AMBA VIP 总结/AMBA AXI VIP 总结.md",
@@ -182,7 +170,6 @@
     "CDMA IP/重构 CDMA 验证环境代码.md",
     "CDMA IP/目前存在的问题.md",
     "IC工具/Git 学习笔记/Git 基本操作.md",
-    "IC工具/Git 学习笔记/Git 命令详解.md",
-    "IC工具/Git 学习笔记/Git QA.md"
+    "IC工具/Git 学习笔记/Git 命令详解.md"
   ]
 }
