@@ -251,8 +251,31 @@ $直接源自设计规范；不是用户指定的。$代码覆盖的优点之一
 
 如果未指定数据类型，则推断的覆盖点数据类型将是覆盖点表达式的自确定类型。
 
-**iff**
+**iff** 构造中的表达式指定了禁用该覆盖点覆盖的可选条件。
 
+如果 guard 表达式在采样点的计算结果为假，则覆盖点将被忽略。
+```systemverilog
+			covergroup AR;
+				coverpoint s0 iff(!reset);
+			endgroup
+```
+在前面的示例中，仅当“重置”值低时，覆盖点s0才被覆盖。
+
+## 26.4 使用函数或表达式的覆盖点
+
+```systemverilog
+	typedef enum {QUIET, BUSY} stateM;
+
+	funcrion stateM cPoint_State_function(bit valid, ready);
+		if (valid == 0) return QUIET;
+		if ((valid & ~ready) == 0) return BUSY;
+	endfunction
+	...
+	covergroup cg @(posedge clk);
+		cpStateM: coverpoint cPoint_State_function (valid, ready);
+	endgroup
+	cg cgInst = new(1'b0, 1'b1);
+```
 
 
 
