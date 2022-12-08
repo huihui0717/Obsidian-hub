@@ -276,8 +276,14 @@ $直接源自设计规范；不是用户指定的。$代码覆盖的优点之一
 	endgroup
 	cg cgInst = new(1'b0, 1'b1);
 ```
+在本例中，我们定义了stateM类型的函数“cPoint_State_function”（这是一个typedef枚举）。此函数输入“有效”和“就绪”。当“有效”==0时，我们希望覆盖状态QUET，而当（（有效和就绪）==0）时，我们想要覆盖状态BUSY。
 
+换句话说，这是一个基于某些条件创建的“箱”数量的示例。模拟器自动生成两个“bin”（因为您没有为函数指定显式“bin”，并且函数返回typedef枚举“stateM”的两个显式值（QUIET和BUSY））。功能的这两个仓将根据功能中提供的条件进行覆盖。
 
+下面是一个表达式的覆盖点示例：
+```systemverilog
+	bit cp_parity: coverpoint $countones(serial_word);
+```
 
 
 
