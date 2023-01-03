@@ -58,9 +58,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d042a8ddd659c19b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,7 +195,18 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "73d0e75e9929c24d",
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d042a8ddd659c19b",
   "lastOpenFiles": [
     "未命名.md",
     "WAVE511对比.md",
