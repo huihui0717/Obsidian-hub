@@ -63,9 +63,12 @@
             "id": "d042a8ddd659c19b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.8"
+                "file": "System Verilog Assertion and Functional Coverage/System Verilog Functional Coverage.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -136,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CDMA IP/目前存在的问题.md",
+                "file": "System Verilog Assertion and Functional Coverage/System Verilog Functional Coverage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CDMA IP/目前存在的问题.md",
+                "file": "System Verilog Assertion and Functional Coverage/System Verilog Functional Coverage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CDMA IP/目前存在的问题.md"
+                "file": "System Verilog Assertion and Functional Coverage/System Verilog Functional Coverage.md"
               }
             }
           },
