@@ -8,72 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29db421336e813ab",
+            "id": "115c40f9961e9e1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIDEO IP/VDSYS 的问题.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de15dd73efc5e4cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Verilog Assertion and Functional Coverage/System Verilog Functional Coverage.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7de4d3387ebdd717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WAVE511对比.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73d0e75e9929c24d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CDMA IP/目前存在的问题.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d042a8ddd659c19b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Verilog Assertion and Functional Coverage/System Verilog Functional Coverage.md",
+                "file": "pwm pinmux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Verilog Assertion and Functional Coverage/System Verilog Functional Coverage.md",
+                "file": "pwm pinmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Verilog Assertion and Functional Coverage/System Verilog Functional Coverage.md",
+                "file": "pwm pinmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Verilog Assertion and Functional Coverage/System Verilog Functional Coverage.md"
+                "file": "pwm pinmux.md"
               }
             }
           },
@@ -209,11 +156,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d042a8ddd659c19b",
+  "active": "115c40f9961e9e1c",
   "lastOpenFiles": [
-    "未命名.md",
     "WAVE511对比.md",
     "System Verilog Assertion and Functional Coverage/System Verilog Functional Coverage.md",
+    "pwm pinmux.md",
     "System Verilog Assertion and Functional Coverage/System Verilog Assertions.md",
     "VIDEO IP/VDSYS 的问题.md",
     "CDMA IP/Function Coverage.md",
