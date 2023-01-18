@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Pasted image 20230118100955.png\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +171,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "230a782288500633",
+  "active": "b881c379217f99ed",
   "lastOpenFiles": [
     "WAVE511和WAVE517 API对比.md",
     "System Verilog Assertion and Functional Coverage/System Verilog Functional Coverage.md",
