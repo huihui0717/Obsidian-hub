@@ -4,4 +4,7 @@
 ![[Pasted image 20230118102551.png]]
 ### 3. vt_dec_pic_issue
 ![[Pasted image 20230118103325.png]]
-
+### 4. vt_create_instance_issue
+![[Pasted image 20230118103805.png]]
+### 5. vt_init_vpu_issue
+![[Pasted image 20230118104059.png]]
