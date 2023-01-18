@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WAVE511对比.md",
+                "file": "WAVE511和WAVE517 API对比.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WAVE511对比.md",
+                "file": "WAVE511和WAVE517 API对比.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WAVE511对比.md",
+                "file": "WAVE511和WAVE517 API对比.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WAVE511对比.md"
+                "file": "WAVE511和WAVE517 API对比.md"
               }
             }
           },
@@ -172,7 +172,7 @@
   },
   "active": "230a782288500633",
   "lastOpenFiles": [
-    "WAVE511对比.md",
+    "WAVE511和WAVE517 API对比.md",
     "System Verilog Assertion and Functional Coverage/System Verilog Functional Coverage.md",
     "pwm pinmux.md",
     "System Verilog Assertion and Functional Coverage/System Verilog Assertions.md",
