@@ -171,11 +171,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b881c379217f99ed",
+  "active": "230a782288500633",
   "lastOpenFiles": [
+    "pwm pinmux.md",
     "WAVE511和WAVE517 API对比.md",
     "System Verilog Assertion and Functional Coverage/System Verilog Functional Coverage.md",
-    "pwm pinmux.md",
     "System Verilog Assertion and Functional Coverage/System Verilog Assertions.md",
     "VIDEO IP/VDSYS 的问题.md",
     "CDMA IP/Function Coverage.md",
