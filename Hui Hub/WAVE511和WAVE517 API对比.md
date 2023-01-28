@@ -8,3 +8,5 @@
 ![[Pasted image 20230118103805.png]]
 ### 5. vt_init_vpu_issue
 ![[Pasted image 20230118104059.png]]
+### 6. vt_init_seq_issue
+![[Pasted image 20230128142129.png]]
