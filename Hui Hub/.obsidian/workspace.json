@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d8512ac6e893c494",
+        "id": "4a8250bcf1765f76",
         "type": "tabs",
         "children": [
           {
-            "id": "115c40f9961e9e1c",
+            "id": "1dbb2c21e57a9a24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pwm pinmux.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "230a782288500633",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WAVE511和WAVE517 API对比.md",
+                "file": "CDMA寄存器配置流程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WAVE511和WAVE517 API对比.md",
+                "file": "CDMA寄存器配置流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WAVE511和WAVE517 API对比.md",
+                "file": "CDMA寄存器配置流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WAVE511和WAVE517 API对比.md"
+                "file": "CDMA寄存器配置流程.md"
               }
             }
           },
@@ -171,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "230a782288500633",
+  "active": "1dbb2c21e57a9a24",
   "lastOpenFiles": [
     "pwm pinmux.md",
     "WAVE511和WAVE517 API对比.md",
