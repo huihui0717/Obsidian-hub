@@ -1,4 +1,10 @@
 {
   "promptDelete": true,
-  "vimMode": false
+  "vimMode": false,
+  "pdfExportSettings": {
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

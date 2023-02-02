@@ -148,7 +148,7 @@ task pcie_cdma_test_seq::WaitForOneDescriptorDone(int des_index);
         
     `uvm_info(get_name(), $sformatf("Start %0dth WaitForOneDescriptorDone", des_index), UVM_LOW)
     
-    WaitDesDone(cdma_done_time);
+    WaitDesDone(cdma_done_time);   //我直接拉取的ip信号 你也可以通过读寄存器判读cdma一次工作完成
 
     ComputeBandwidth(des_index);
          
@@ -216,6 +216,47 @@ task pcie_cdma_test_seq::WaitForOneDescriptorDone(int des_index);
                         end
                     end
                 end
-                           
-                                
+                else begin
+                        
+                    if((cmd_fifo == 0 && rdata[3] == 0) || (cmd_fifo != 0 && rdata[3] == 1))
+                        `uvm_error(get_name(), $sformatf("CDMA cmd fifo empty intrrupt in error mode!, cmd_fifo: %0d, cmd_ept_int: %0d", cmd_fifo, rdata[3]))
+                        
+                    if(rdata[0] == 1'b1)
+                        `uvm_error(get_name(), $sformatf("Descriptor intrrupt should not generate when des_int_en disable!, %0dth", des_index))
+                        
+                    if(cdma_intr == 1'b0) begin     // no interrupt output
+                        if(ctrl_reg.int_out_en == 1'b1 && (rdata[3]==1 && ctrl_reg.rf_cmd_ept_int_mask == 1'b0)) begin
+                            `uvm_error(get_name(), "Interrupt pin should be high when ctrl_reg.int_out_en == 1'b1 && (rdata[3]==1 && ctrl_reg.rf_cmd_ept_int_mask == 1'b0)!") 
+                        end
+                    end
+                    else begin         // have interrupt output
+                        if(ctrl_reg.int_out_en == 1'b0 || (ctrl_reg.rf_cmd_ept_int_mask == 1'b1)) begin
+                                `uvm_error(get_name(), "Interrupt pin should be low when ctrl_reg.int_out_en == 1'b0 || (ctrl_reg.rf_cmd_ept_int_mask == 1'b1)!") 
+                         end
+
+                    end
+                end
+            end
+                
+            wdata = 32'h1;
+            reg32_write(sub_env_cfg.cdma_base_addr+`CDMA_INT_STATUS, wdata);    // W1C
+                
+        end
+    join_none
+        
+endtask: WaitForOneDescriptorDone                                
 ```
+##### 2.2.4CDMAShutDown
+```verilog
+task pcie_cdma_test_seq::CDMAShutDown();
+        
+    bit[31:0]   wdata;
+
+    wdata = 32'h0;
+    reg32_write(sub_env_cfg.cdma_base_addr+`CDMA_CTRL_ADDR, wdata);
+
+endtask: CDMAShutDown
+
+```
+
+
