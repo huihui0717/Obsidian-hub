@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CDMA寄存器配置流程.md",
+                "file": "pwm pinmux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CDMA寄存器配置流程.md",
+                "file": "pwm pinmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CDMA寄存器配置流程.md",
+                "file": "pwm pinmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CDMA寄存器配置流程.md"
+                "file": "pwm pinmux.md"
               }
             }
           },
@@ -159,15 +158,15 @@
   },
   "active": "1dbb2c21e57a9a24",
   "lastOpenFiles": [
-    "pwm pinmux.md",
     "WAVE511和WAVE517 API对比.md",
+    "CDMA寄存器配置流程.md",
+    "pwm pinmux.md",
     "System Verilog Assertion and Functional Coverage/System Verilog Functional Coverage.md",
     "System Verilog Assertion and Functional Coverage/System Verilog Assertions.md",
     "VIDEO IP/VDSYS 的问题.md",
     "CDMA IP/Function Coverage.md",
     "AMBA VIP 总结/AMBA AXI VIP 总结.md",
     "CDMA IP/CDMA testcase.md",
-    "CDMA IP/重构 CDMA 验证环境代码.md",
-    "CDMA IP/目前存在的问题.md"
+    "CDMA IP/重构 CDMA 验证环境代码.md"
   ]
 }

@@ -16,3 +16,4 @@ end
 
 
 ```
+top.u_dut_top.u_dut.chip_core.A_ssperi_sys_pr_wrap.A_ssperi_sys_pr.A_ssperi_sys.A_ssperi_cdma0.m0_data_rid[4:0]
