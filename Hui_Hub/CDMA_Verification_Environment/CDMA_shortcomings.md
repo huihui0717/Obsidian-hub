@@ -1,0 +1,14 @@
+## 1D
+短数据基本能**跑通**
+最长数据(2^32-1)正在跑，==待定==
+
+## 2D
+1. 当使用 stride 步骤时会出错
+2. stride 的单位和 data_fmt 不一致
+
+
+
+1D模式：
+2. 多descriptor 会卡住；
+3. 多descriptor的des_intr 会出现错；
+2D模式：

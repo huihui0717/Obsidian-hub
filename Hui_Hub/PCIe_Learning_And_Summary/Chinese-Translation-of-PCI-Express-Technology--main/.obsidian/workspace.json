@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "d01a09acc422d0a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "460d9e218befdb46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4f03cb0cc866063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 背景.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b547111ab08ea341",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2475b3605cbd1e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "898a2ea1c310c790",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c920a1d8d428c403",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38f1fe60930deddf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b0e5083931a3dd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d6af489886d9578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6167aa7bd9d99318",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 背景.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad4a65c0655b6b47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 背景.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6a4358809711e12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e507d81e3146c5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 背景.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d4f03cb0cc866063",
+  "lastOpenFiles": [
+    "14 链路初始化与训练.md",
+    "12 物理层逻辑(gen3).md",
+    "9 DLLP 元素.md",
+    "8 事务排序.md",
+    "6 流量控制.md",
+    "5 TLP 元素.md",
+    "4 地址空间与事务路由.md",
+    "3 PCIe 配置概述.md",
+    "2 PCIe 体系结构概述.md",
+    "1 背景.md"
+  ]
+}
